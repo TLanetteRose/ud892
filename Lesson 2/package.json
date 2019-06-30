@@ -11,11 +11,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "npm install --save-dev gulp@3.9.1"
+    "url": "https://github.com/TLanetteRose/ud892/blob/package-1.git"
   },
   "keywords": [
     "[]"
   ],
-  "author": "\"\"",
+  "author": "",
   "license": "ISC"
 }
