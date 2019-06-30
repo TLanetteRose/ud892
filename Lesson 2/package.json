@@ -17,5 +17,12 @@
     "[]"
   ],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp-sass": "^4.0.2"
+  },
+  "devDependencies": {
+    "gulp-autoprefixer": "^6.1.0"
+  }
 }
