@@ -1,0 +1,21 @@
+{
+  "name": "package-1",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "main": "npm install --save-dev gulp",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "gulp -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TLanetteRose/ud892/blob/package-1.git"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "",
+  "license": "ISC"
+}
