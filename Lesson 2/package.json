@@ -1,0 +1,21 @@
+{
+  "name": "package-1",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "main": "npm install --save-dev gulp",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "gulp -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "npm install --save-dev gulp@3.9.1"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "\"\"",
+  "license": "ISC"
+}
